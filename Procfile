@@ -1,1 +1,1 @@
-worker: node bot.js PreNetwork
+worker: node bot.js 
