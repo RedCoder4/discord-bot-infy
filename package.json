@@ -1,6 +1,6 @@
 {
-  "name": "Test",
-  "description": "Test",
+  "name": "discord-bot-infy",
+  "description": "bot del servidor competitivo de smite TheInfinity",
   "version": "0.0.0",
   "main": "bot.js",
   "scripts": {
