@@ -1,7 +1,11 @@
 const Discord = require('discord.js');
-const bot = new Discord.Client();
+const client = new Discord.Client();
 
-bot.on('message' , (message) => {
+client.on('ready', () => {
+    console.log('Fixed by RedCoder4');
+});
+
+client.on('message' , (message) => {
 	if (message.content == '!scrim') {
 			message.channel.send("Horarios Scrim: De Viernes a Domingos (De 4 a 8)", {
 			tts:false
