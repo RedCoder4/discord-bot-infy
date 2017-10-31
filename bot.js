@@ -24,7 +24,7 @@ bot.on('message' , (message) => {
 			})
 	}
 	if (message.content == '!roster') {
-			message.channel.send("Roster actual(IDs):\n-MID: TheMaik96\n-ADC: LF\n-Jungle: LF\n-Support: Adnáyerc\n-Solo: Rivasito\n-Suplentes: LF", {
+			message.channel.send("Roster actual(IDs):\n\u0020\u0020\u0020\u0020-MID: TheMaik96\n\u0020\u0020\u0020\u0020-ADC: LF\n\u0020\u0020\u0020\u0020-Jungle: LF\n\u0020\u0020\u0020\u0020-Support: Adnáyerc\n\u0020\u0020\u0020\u0020-Solo: Rivasito\n\u0020\u0020\u0020\u0020-Suplentes: LF", {
 			tts: false
 			})
 	}
