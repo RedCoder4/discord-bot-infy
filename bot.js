@@ -1,4 +1,3 @@
-console.log('El bot esta funcionando');
 const Discord = require('discord.js');
 const bot = new Discord.Client();
 
