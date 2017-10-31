@@ -8,7 +8,7 @@ bot.on('message' , (message) => {
 			tts: true
 			})
 	if (message.content == '!mikel') {
-			message.channel.send("@TheMaik96#1746, MID Laner del equipo: Este chico es pura skill con una goodpull bien grande. Solo el lag le para!",
+			message.channel.send("@TheMaik96#1746, MID Laner del equipo: Este chico es pura skill con una goodpull bien grande. Solo el lag le para!",{
 			tts:true
 			})
 	}
